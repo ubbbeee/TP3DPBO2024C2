@@ -1,5 +1,5 @@
 <?php
-
+// Saya Alfen Fajri Nurulhaq 2201431 TP3 dalam Mata Kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 include('config/db.php');
 include('classes/DB.php');
 include('classes/Ciri.php');

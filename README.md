@@ -3,3 +3,8 @@ Saya Alfen Fajri Nurulhaq 2201431 TP3 dalam Mata Kuliah DPBO untuk keberkahanNya
 ![image](https://github.com/ubbbeee/TP3DPBO2024C2/assets/120569318/a836c3b4-7b1f-473b-ba40-9179077dfc08)
 
 Disini Saya Membuat Data Hewan Di Indonesia
+
+## Screen Record
+
+https://github.com/ubbbeee/TP3DPBO2024C2/assets/120569318/a4dcf809-7d86-4a56-b7a2-9d53e6dbb9ed
+
